@@ -475,5 +475,7 @@ Changelog
 **docopt** follows `semantic versioning <http://semver.org>`_.  The
 first release with stable API will be 1.0.0 (soon).
 
+- 0.6.4 Bump CMake minimum required version to 3.5
+- 0.6.3 Bugfix and build system updates (still based on docopt 0.6.1)
 - 0.6.2 Bugfix release (still based on docopt 0.6.1)
 - 0.6.1 The initial C++ port of docopt.py (based on docopt 0.6.1)
